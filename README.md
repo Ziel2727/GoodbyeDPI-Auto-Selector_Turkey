@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/25574331/README.md)
-# 🚀 GoodbyeDPI Türkiye - Otomatik Konfigürasyon Seçici
+# GoodbyeDPI Türkiye - Otomatik Konfigürasyon Seçici
 
 GoodbyeDPI'nin 7 farklı konfigürasyonunu otomatik olarak dener, çalışanı bulur ve kurar.  
 Farklı bilgisayarlarda tek tek deneme zahmetini ortadan kaldırır.
