@@ -1,0 +1,14 @@
+
+============================================================
+Tarih: 2026-02-26 13:57:30
+ISP: Superonline Iletisim Hizmetleri A.S.
+IP: 213.74.184.66
+ASN: AS34984 Superonline Iletisim Hizmetleri A.S.
+Mimari: x86_64
+
+Seçilen Konfigürasyon: Alternatif 6 (Mod -9 - DNS'siz)
+Argümanlar: -9
+Manuel DNS Gerekli: Evet
+
+Test: discord.com -> Erişilebilir ✓
+============================================================
